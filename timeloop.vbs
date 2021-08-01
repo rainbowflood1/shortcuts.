@@ -1,0 +1,5 @@
+DO
+
+msgbox(time)
+
+LOOP

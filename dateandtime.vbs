@@ -1,0 +1,2 @@
+msgbox (Date)
+msgbox (Time)
